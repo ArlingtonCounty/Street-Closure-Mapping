@@ -1,2 +1,2 @@
-Street-Closure-Mapping
+Street Closure Mapping
 ======================
